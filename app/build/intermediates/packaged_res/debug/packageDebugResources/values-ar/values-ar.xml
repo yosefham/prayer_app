@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مواقيت الصلاة</string>
+    <string name="arabic">العربية</string>
+    <string name="asr">العصر</string>
+    <string name="cancel">إلغاء</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="change_location">تغيير الموقع</string>
+    <string name="city_not_found">المدينة غير موجودة</string>
+    <string name="daily_view">يومي</string>
+    <string name="date">التاريخ</string>
+    <string name="dhuhr">الظهر</string>
+    <string name="english">الإنجليزية</string>
+    <string name="enter_city">أدخل المدينة</string>
+    <string name="error_fetching_data">خطأ في جلب البيانات</string>
+    <string name="fajr">الفجر</string>
+    <string name="grant_permission">منح الإذن</string>
+    <string name="isha">العشاء</string>
+    <string name="loading">جاري التحميل...</string>
+    <string name="location_not_found">الموقع غير موجود</string>
+    <string name="location_permission_rationale">نحتاج إلى موقعك لحساب أوقات الصلاة بدقة.</string>
+    <string name="maghrib">المغرب</string>
+    <string name="monthly_view">شهري</string>
+    <string name="search">بحث</string>
+    <string name="settings">الإعدادات</string>
+    <string name="spanish">الإسبانية</string>
+    <string name="sunrise">الشروق</string>
+    <string name="use_current_location">استخدام الموقع الحالي</string>
+</resources>

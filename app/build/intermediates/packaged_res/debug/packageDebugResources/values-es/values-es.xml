@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiempo de Oración</string>
+    <string name="arabic">Árabe</string>
+    <string name="asr">Asr</string>
+    <string name="cancel">Cancelar</string>
+    <string name="change_language">Cambiar Idioma</string>
+    <string name="change_location">Cambiar Ubicación</string>
+    <string name="city_not_found">Ciudad no encontrada</string>
+    <string name="daily_view">Diario</string>
+    <string name="date">Fecha</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="english">Inglés</string>
+    <string name="enter_city">Ingrese Ciudad</string>
+    <string name="error_fetching_data">Error al obtener datos</string>
+    <string name="fajr">Fajr</string>
+    <string name="grant_permission">Dar Permiso</string>
+    <string name="isha">Isha</string>
+    <string name="loading">Cargando...</string>
+    <string name="location_not_found">Ubicación no encontrada</string>
+    <string name="location_permission_rationale">Necesitamos su ubicación para calcular los tiempos de oración precisos.</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="monthly_view">Mensual</string>
+    <string name="search">Buscar</string>
+    <string name="settings">Configuración</string>
+    <string name="spanish">Español</string>
+    <string name="sunrise">Amanecer</string>
+    <string name="use_current_location">Usar ubicación actual</string>
+</resources>

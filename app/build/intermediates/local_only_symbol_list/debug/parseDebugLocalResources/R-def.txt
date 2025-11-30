@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string arabic
+string asr
+string cancel
+string change_language
+string change_location
+string city_not_found
+string daily_view
+string date
+string dhuhr
+string english
+string enter_city
+string error_fetching_data
+string fajr
+string grant_permission
+string isha
+string loading
+string location_not_found
+string location_permission_rationale
+string maghrib
+string monthly_view
+string search
+string settings
+string spanish
+string sunrise
+string use_current_location
+style Theme.PrayerTime
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+string app_name
+string asr
+string daily_view
+string date
+string dhuhr
+string error_fetching_data
+string fajr
+string grant_permission
+string isha
+string loading
+string location_not_found
+string location_permission_rationale
+string maghrib
+string monthly_view
+string sunrise
+string use_current_location

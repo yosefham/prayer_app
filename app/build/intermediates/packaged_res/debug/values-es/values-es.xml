@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiempo de Oración</string>
+    <string name="asr">Asr</string>
+    <string name="daily_view">Diario</string>
+    <string name="date">Fecha</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="error_fetching_data">Error al obtener datos</string>
+    <string name="fajr">Fajr</string>
+    <string name="grant_permission">Dar Permiso</string>
+    <string name="isha">Isha</string>
+    <string name="loading">Cargando...</string>
+    <string name="location_not_found">Ubicación no encontrada</string>
+    <string name="location_permission_rationale">Necesitamos su ubicación para calcular los tiempos de oración precisos.</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="monthly_view">Mensual</string>
+    <string name="sunrise">Amanecer</string>
+    <string name="use_current_location">Usar ubicación actual</string>
+</resources>
